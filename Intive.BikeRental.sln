@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Model", "Intive.BikeRental.Model\Intive.BikeRental.Model.csproj", "{50CC9FFC-F298-404B-B7E0-4114744DA417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Utility", "Intive.BikeRental.Utility\Intive.BikeRental.Utility.csproj", "{0CDD90F0-ECC5-48E1-95F3-7C65BC09BACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Repository", "Intive.BikeRental.Repository\Intive.BikeRental.Repository.csproj", "{961D0BF7-8453-4349-BDB7-6F91F4F72583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Provider", "Intive.BikeRental.Provider\Intive.BikeRental.Provider.csproj", "{9658EDD3-1474-4488-9525-654A21DF7878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Utility.Test", "Intive.BikeRental.Utility.Test\Intive.BikeRental.Utility.Test.csproj", "{3FCB5BEE-FE8E-4049-A5CF-E5D9CE845857}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A9EC4D9-4FB1-422E-B089-2BAECFD33A01}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Model.Test", "Intive.BikeRental.Model.Test\Intive.BikeRental.Model.Test.csproj", "{B1F0A406-73E0-4E06-B021-8DB2A858138C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Repository.Test", "Intive.BikeRental.Repository.Test\Intive.BikeRental.Repository.Test.csproj", "{EF045BA3-8D1B-435A-8ECB-9B44757298F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive.BikeRental.Provider.Test", "Intive.BikeRental.Provider.Test\Intive.BikeRental.Provider.Test.csproj", "{D98D697E-AEEA-434F-8869-35C8C6C9C843}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{01F0BABB-DB9E-4147-B3AE-0C2E27A6013E}"
+	ProjectSection(SolutionItems) = preProject
+		Images\Coverage.jpg = Images\Coverage.jpg
+		Images\RunAllTest.jpg = Images\RunAllTest.jpg
+		Images\TestExplorer.jpg = Images\TestExplorer.jpg
+		Images\Tests.jpg = Images\Tests.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50CC9FFC-F298-404B-B7E0-4114744DA417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CC9FFC-F298-404B-B7E0-4114744DA417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CC9FFC-F298-404B-B7E0-4114744DA417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CC9FFC-F298-404B-B7E0-4114744DA417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDD90F0-ECC5-48E1-95F3-7C65BC09BACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDD90F0-ECC5-48E1-95F3-7C65BC09BACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDD90F0-ECC5-48E1-95F3-7C65BC09BACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDD90F0-ECC5-48E1-95F3-7C65BC09BACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961D0BF7-8453-4349-BDB7-6F91F4F72583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961D0BF7-8453-4349-BDB7-6F91F4F72583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961D0BF7-8453-4349-BDB7-6F91F4F72583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961D0BF7-8453-4349-BDB7-6F91F4F72583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9658EDD3-1474-4488-9525-654A21DF7878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9658EDD3-1474-4488-9525-654A21DF7878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9658EDD3-1474-4488-9525-654A21DF7878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9658EDD3-1474-4488-9525-654A21DF7878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCB5BEE-FE8E-4049-A5CF-E5D9CE845857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCB5BEE-FE8E-4049-A5CF-E5D9CE845857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCB5BEE-FE8E-4049-A5CF-E5D9CE845857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCB5BEE-FE8E-4049-A5CF-E5D9CE845857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F0A406-73E0-4E06-B021-8DB2A858138C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F0A406-73E0-4E06-B021-8DB2A858138C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F0A406-73E0-4E06-B021-8DB2A858138C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F0A406-73E0-4E06-B021-8DB2A858138C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF045BA3-8D1B-435A-8ECB-9B44757298F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF045BA3-8D1B-435A-8ECB-9B44757298F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF045BA3-8D1B-435A-8ECB-9B44757298F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF045BA3-8D1B-435A-8ECB-9B44757298F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98D697E-AEEA-434F-8869-35C8C6C9C843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98D697E-AEEA-434F-8869-35C8C6C9C843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98D697E-AEEA-434F-8869-35C8C6C9C843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98D697E-AEEA-434F-8869-35C8C6C9C843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{01F0BABB-DB9E-4147-B3AE-0C2E27A6013E} = {2A9EC4D9-4FB1-422E-B089-2BAECFD33A01}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6B8B82-CA9E-4CD9-B048-E1493C817109}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
